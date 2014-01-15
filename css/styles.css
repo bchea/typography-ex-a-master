@@ -1,0 +1,9 @@
+/* Your Website Styles */
+
+p {font-family: 'Poiret One', cursive;}
+h1 {font-family: 'Vast Shadow', cursive;}
+h2 {font-family: 'Vast Shadow', cursive;}
+/* Show Grid */
+.showgrid {
+	background: url("../img/grid-bg.png") repeat-y;
+}
